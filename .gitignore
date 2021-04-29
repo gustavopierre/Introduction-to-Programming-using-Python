@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# courses examples
+Topic_7_Example_Code_20210429/
